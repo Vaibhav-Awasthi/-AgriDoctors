@@ -1,0 +1,13 @@
+# files to be ignored
+node_modules/
+.env
+planning.txt
+try.ipynb
+pic.jpg
+a.py
+model_data2.joblib
+model_data.joblib
+1.jpg
+2.jpg
+3.jpg
+uploads
